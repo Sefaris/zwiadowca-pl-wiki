@@ -6,11 +6,9 @@ pagination_prev: solucja/gornicza-dolina
 pagination_next: porady
 ---
 
-:::info Mapa Jarkendaru
+## Mapa Jarkendaru {#mapa-jarkendaru}
 
-Mapa Jarkendaru nie jest jeszcze dostępna. W opisach zachowano oznaczenia punktów z solucji.
-
-:::
+![Mapa Jarkendaru z punktami 1–9 opisanymi w solucji](./ilustracje/mapa-jarkendaru.png)
 
 ## Zwiady – ZAKOŃCZENIE 1 {#zwiady-zakonczenie-1}
 Cord zleca nam zadanie polegające na infiltracji i obserwacji bandytów na zachodniej plaży (1 na mapie). Na miejsce możemy dostać się wspinaczką lub przez bagna i kanion. Po dotarciu do obozu rozmawiamy ze Scattym, który nakazuje nam pomóc ludziom w obozie.
