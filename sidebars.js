@@ -5,6 +5,6 @@ module.exports = {
       'solucja/gornicza-dolina',
       'solucja/jarkendar',
     ]},
-    {type: 'category', label: 'Warto wiedzieć', collapsible: false, items: ['porady']},
+    {type: 'category', label: 'Informacje dodatkowe', collapsible: false, items: ['porady']},
   ],
 };
