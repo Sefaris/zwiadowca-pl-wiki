@@ -7,7 +7,7 @@ pagination_next: null
 hide_table_of_contents: true
 ---
 
-- Nie warto okradać magów, modyfikacja dodaje wiele nowych zwojów, które mogą być niezwykle przydatne.
+- Nie warto okradać magów, modyfikacja dodaje wiele nowych zwojów, które mogą być niezwykle przydatne. Jeżeli jednak ich okradniemy, niektóre zadania staną się niedostępne oraz wielu kupców przestanie z nami handlować. Magowie nie zapominają przestępstw nawet jeżeli użyjemy na nich zaklęcia "Niepamięć" a jedyną opcja pozostaje wczytanie poprzedniego zapisu.
 
 - Aby Fernando poszedł do pracy należy mu powiedzieć, że przyda się każda para rąk do pracy, a następnie żeby poszedł na farmę.
 
@@ -15,6 +15,8 @@ hide_table_of_contents: true
 
 - Sergio mówi nam, że możemy zawalczyć z Opolosem i Rangarem aby zdobyć więcej doświadczenia. Po ich pokonaniu możemy wyzwać Sergio.
 
-- Jeżeli okradniemy skrzynię w kuźni Stone’a, w której znajduje się Zbroja z Czerwonej Tkaniny i porozmawiamy z nim nosząc ją, pozwoli to nam na „odkupienie” jej za połowę ceny (500 sztuk złota). Nie jest to szczególnie opłacalne gdyż Stone obrazi się na nas jeżeli spróbujemy z nim porozmawiać mając ową zbroję wyposażoną i nie mamy zamiaru jej odkupić. Od Kagana za zadanie Isidro dostajemy zbroję z takimi samymi statystykami (którą można ulepszyć).
+- Jeżeli okradniemy skrzynię w kuźni Stone’a, w której znajduje się Zbroja z Czerwonej Tkaniny i porozmawiamy z nim nosząc ją, pozwoli to nam na "odkupienie" jej za połowę ceny (500 sztuk złota). Nie jest to szczególnie opłacalne gdyż Stone obrazi się na nas jeżeli spróbujemy z nim porozmawiać mając ową zbroję wyposażoną i nie mamy zamiaru jej odkupić. Od Kagana za zadanie Isidro dostajemy zbroję z takimi samymi statystykami (którą można ulepszyć).
+
+- Nie warto zabijać Stone'a gdyż jest on jedynym kowalem w Górniczej Dolinie, który może nam sprzedać Łachy Skazańca potrzebne w późniejszym etapie gry.
 
 - Skrzynia Rączki: `PPLLLPPLLPLPPPPPLLPLLPPLL` – potrzebne aby ten nauczył nas złodziejstwa.
